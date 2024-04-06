@@ -36,6 +36,13 @@ body{
     
 } */
 
+.hov:hover{
+    color: #424c5c;
+} 
+.hov{
+    color: #e5d15d;
+}
+
 .align {
     display: flex;
     justify-content: space-around;
@@ -45,6 +52,9 @@ body{
     cursor: pointer;
 }
 
+/* .align:hover{
+    color:#424c5c;
+} */
 .align .large{
     font-size:60px;
 }
